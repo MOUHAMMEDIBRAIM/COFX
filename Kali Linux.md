@@ -20,19 +20,19 @@ sudo apt full-upgrade
 
 4. **For enable Bluetooth :**
 
-  1. Step 1 
+Step 1 
 
 ```
 sudo apt install bluez*
 ```
 
-  2. Step 2
+Step 2
 
 ```
 sudo apt install blueman
 ```
 
-   3. Step 3
+Step 3
 
 ```
 sudo systemctl enable bluetooth.service
